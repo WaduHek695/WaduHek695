@@ -1,7 +1,7 @@
 %数独机版本1.0，能解简单数独
 %后续添加显示，数对求解，暴力求解，无法求解时停止运算功能
 %%
-clc;clear all;
+clear;
 shudu=textread('shudu7.txt');
 zero=zeros(9,9);
 %%
